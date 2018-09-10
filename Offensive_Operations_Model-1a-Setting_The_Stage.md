@@ -1,4 +1,4 @@
-# 1. Setting the Stage
+# Setting the Stage
 
 #### (c) 2018 Karsten Johansson
 
