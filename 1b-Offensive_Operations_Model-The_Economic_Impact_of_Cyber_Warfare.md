@@ -12,7 +12,7 @@ What they didn’t see is the “business end” of information security. There 
 
 ## Understanding the Financial Impact
 
-In business, everything is eventually classified by its ability to create money, or its penchant for losing it.
+In business, everything is eventually classified by its ability to create money, or its penchance for losing it.
 
 A sustained attack against an online business is said to cost anywhere from US\$500,000 to millions of dollars per day. This is just the revenue impact, which depends highly on the popularity of the site. For example, a 2011 attack on Sony is reported to have cost them in excess of US\$170 million. In 2012, News Corp. announced that hacking had cost them a similar amount. And we are increasingly hearing of massive losses like these today.
 
